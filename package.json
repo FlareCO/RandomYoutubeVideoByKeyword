@@ -1,0 +1,31 @@
+{
+    "name": "random-youtube-video-by-keyword",
+    "version": "1.0.5",
+    "description": "The easiest way to get a random video from YouTube by name.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/flareco/RandomYoutubeVideoByKeyword.git"
+    },
+    "keywords": [
+      "youtube",
+      "random",
+      "video",
+      "api",
+      "search",
+      "data"
+    ],
+    "author": "flareco",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/flareco/RandomYoutubeVideoByKeywor/issues"
+    },
+    "homepage": "https://github.com/flareco/RandomYoutubeVideoByKeywor#readme",
+    "dependencies": {
+      "request": "^2.74.0"
+    },
+    "devDependencies": {}
+  }
