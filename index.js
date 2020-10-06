@@ -1,3 +1,5 @@
+// Copyright 2020 FlareCO
+
 var request = require('request');
 
 exports.getRandomVid = function (key, keyname, callback){
